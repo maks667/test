@@ -1,2 +1,6 @@
 fsfsfs
+<<<<<<< HEAD
 new line on branch master
+=======
+new line
+>>>>>>> test
